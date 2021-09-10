@@ -2,22 +2,6 @@ Hey there! I'm Jacob, a web developer from Canada looking for a new opportunity.
 
 ## Projects
 
-Here's are some of my projects:
-
-### Storefront
-
-This was my first project. The front-end is an SPA built using React and TypeScript, while the back-end is a REST API built using Node.js, TypeScript, and Express. The database uses PostgreSQL.
-
-The site itself is a mock ecommerce site.
-
-Since this was the first time that I built something by completely by myself, my goal was to get comfortable using JavaScript, React, CSS, and Node.js.
-
-View the repositories for a more thorough overview and to read through the code:
-
-- [Repo for the React Front-end](https://github.com/jgoodier1/storefront)
-- [Repo for the Node.js Back-end](https://github.com/jgoodier1/storefront-api)
-- [Live Site](https://storefront-app.netlify.app/)
-
 ### Unofficial Anilist Extension
 
 This is my most recent project. It is a browser extension built using React that connects the Anilist's official GraphQL API.
@@ -41,3 +25,17 @@ The main thing I learned while working on this project was how to effectively us
 View the repository for a more in depth overview of the project and to view the code:
 
 [Repo for Site Tracker Browser Extension](https://github.com/jgoodier1/site-tracker-ext)
+
+### Storefront
+
+This was my first project. The front-end is an SPA built using React and TypeScript, while the back-end is a REST API built using Node.js, TypeScript, and Express. The database uses PostgreSQL.
+
+The site itself is a mock ecommerce site.
+
+Since this was the first time that I built something by completely by myself, my goal was to get comfortable using JavaScript, React, CSS, and Node.js.
+
+View the repositories for a more thorough overview and to read through the code:
+
+- [Repo for the React Front-end](https://github.com/jgoodier1/storefront)
+- [Repo for the Node.js Back-end](https://github.com/jgoodier1/storefront-api)
+- [Live Site](https://storefront-app.netlify.app/)
